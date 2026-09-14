@@ -6,7 +6,12 @@
 
 本仓库用于维护量潮组织管理领域的章程内容，包括：
 
-- 待补充
+- 职级管理章程（`organization/rank.md`）
+- 部门制度（`organization/department/`）
+  - 议事机构章程（`deliberation-institution.md`）
+- 职位制度（`organization/position/`）
+  - 法定代表人章程（`company-representative.md`）
+  - 公司秘书章程（`secretary.md`）
 
 ## 许可
 
