@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [Unreleased]
+
+### Removed
+- 公司代表章程、公司秘书章程降级为案例，迁出至组织管理案例集仓库（quanttide-gallery-of-organization-management）的 `role/` 目录
+
 ## [v0.1.1] - 2026-09-14
 
 ### Changed
